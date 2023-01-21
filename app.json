@@ -24,10 +24,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.alexaloonsoo.Admob"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-9887453620475057~9771093985",
+      "ios_app_id": "ca-app-pub-9887453620475057~9771093985"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fdffb607-caf0-451a-84f9-5d64262bafc9"
+      }
     }
   }
 }
